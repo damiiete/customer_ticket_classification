@@ -19,4 +19,4 @@ logging.basicConfig(
     ]
 )
 
-logger = logging.getLogger("ticketClassifierLogger")
+logger = logging.getLogger("textClassifierLogger")

@@ -6,10 +6,10 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "customer_ticket_classification"
-AUTHOR_USER_NAME = "damiiete"
+REPO_NAME = "multilingual_customer_ticket_classification"
+AUTHOR_USER_NAME = "abdulmalikadeyemo"
 SRC_REPO = "ticketClassifier"
-AUTHOR_EMAIL = "damiete2013@gmail.com"
+AUTHOR_EMAIL = "abdulmalikadeyemo@outlook.com"
 
 
 

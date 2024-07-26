@@ -2,16 +2,18 @@ transformers
 scikit-learn
 datasets
 evaluate
-py7zr
 pandas
 tqdm
-PyYAML
 torch
+PyYAML
 notebook
 boto3
-python-box
+mypy-boto3-s3
+python-box==6.0.2
 ensure
 fastapi
 uvicorn
-Jinja2
+jinja2
+py7zr
+
 -e .

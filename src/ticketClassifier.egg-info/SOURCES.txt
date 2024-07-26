@@ -5,6 +5,8 @@ src/ticketClassifier.egg-info/PKG-INFO
 src/ticketClassifier.egg-info/SOURCES.txt
 src/ticketClassifier.egg-info/dependency_links.txt
 src/ticketClassifier.egg-info/top_level.txt
+src/ticketClassifier/components/__init__.py
+src/ticketClassifier/components/data_ingestion.py
 src/ticketClassifier/config/__init__.py
 src/ticketClassifier/config/configuration.py
 src/ticketClassifier/conponents/__init__.py
