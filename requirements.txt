@@ -1,0 +1,17 @@
+transformers
+scikit-learn
+datasets
+evaluate
+py7zr
+pandas
+tqdm
+PyYAML
+torch
+notebook
+boto3
+python-box
+ensure
+fastapi
+uvicorn
+Jinja2
+-e .

@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: ticketClassifier
+Version: 0.0.0
+Summary: A small python package for NLP app
+Home-page: https://github.com/damiiete/customer_ticket_classification
+Author: damiiete
+Author-email: damiete2013@gmail.com
+Project-URL: Bug Tracker, https://github.com/damiiete/customer_ticket_classification/issues
