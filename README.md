@@ -1,5 +1,6 @@
-# multilingual_customer_ticket_classification
+# customer_ticket_classification
 
+[Task_2 - Transformer model notebook](https://github.com/damiiete/customer_ticket_classification/blob/main/research/MBL.ipynb)
 
 ## Workflows
 1. Update config.yaml
@@ -10,3 +11,4 @@
 6. update the pipeline
 7. update the main.py
 8. update the app.py
+
